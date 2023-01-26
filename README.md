@@ -34,6 +34,20 @@ This repository is still a work in progress
 85%: [Gardnerella sp. DNF01162 (1973155.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/1973155.3.sbml.html)  
 85%: [Gardnerella sp. KA00735 (1973156.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/1973156.3.sbml.html)  
 85%: [Bifidobacteriaceae bacterium NR017 (2021361.5)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2021361.5.sbml.html)  
+85%: [Bifidobacteriaceae bacterium N170 (2021364.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2021364.4.sbml.html)  
+85%: [Bifidobacteriaceae bacterium GH005 (2026092.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026092.4.sbml.html)  
+85%: [Bifidobacteriaceae bacterium NR016 (2026093.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026093.4.sbml.html)  
+84%: [Bifidobacteriaceae bacterium VN002 (2026097.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026097.4.sbml.html)  
+85%: [Bifidobacteriaceae bacterium NR026 (2026098.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026098.4.sbml.html)  
+85%: [Bifidobacteriaceae bacterium NR047 (2026100.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026100.4.sbml.html)  
+85%: [Bifidobacteriaceae bacterium NR026 (2026100.4)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2026100.4.sbml.html)  
+84%: [Bifidobacteriaceae bacterium NR044 (2676752.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2676752.3.sbml.html)  
+84%: [Bifidobacteriaceae bacterium NR043 (2676753.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2676753.3.sbml.html)  
+85%: [Bifidobacteriaceae bacterium NR002 (2676754.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2676754.3.sbml.html)  
+85%: [Gardnerella vaginalis strain CMW7778B (2702.101)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.101.sbml.html)  
+85%: [Gardnerella vaginalis strain 23-12 (2702.103)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.103.sbml.html)  
+84%: [Gardnerella vaginalis strain 18-4 (2702.104)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.104.sbml.html)  
+84%: [Gardnerella vaginalis strain DSM 4944 18-4 (2702.105)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.105.sbml.html)  
 
 
 
