@@ -48,9 +48,17 @@ This repository is still a work in progress
 85%: [Gardnerella vaginalis strain 23-12 (2702.103)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.103.sbml.html)  
 84%: [Gardnerella vaginalis strain 18-4 (2702.104)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.104.sbml.html)  
 84%: [Gardnerella vaginalis strain DSM 4944 18-4 (2702.105)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.105.sbml.html)  
-
-
-
+85%: [Gardnerella vaginalis strain ATCC 49145 (2702.107)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.107.sbml.html) 
+85%: [Gardnerella vaginalis strain GV37 (2702.108)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.108.sbml.html) 
+85%: [Gardnerella vaginalis strain UMB1686 (2702.147)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.147.sbml.html) 
+85%: [Gardnerella vaginalis strain UMB1642 (2702.148)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.148.sbml.html) 
+85%: [Gardnerella vaginalis strain UMB0768 (2702.149)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.149.sbml.html) 
+85%: [Gardnerella vaginalis strain UMB0264 (2702.151)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.151.sbml.html) 
+85%: [Gardnerella vaginalis strain DNF01149 (2702.152)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.152.sbml.html) 
+85%: [Gardnerella vaginalis strain KA00225 (2702.153)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.153.sbml.html) 
+85%: [Gardnerella vaginalis strain ATCC 49145 (2702.154)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.154.sbml.html) 
+85%: [Gardnerella vaginalis strain UGent 06.41 (2702.157)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.157.sbml.html) 
+85%: [Gardnerella vaginalis strain W11 (2702.164)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/2702.164.sbml.html) 
 
 
 
