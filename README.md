@@ -1,9 +1,5 @@
 # Gardnerella-Interactions
 
-
-This repository is still a work in progress
-
-
 ## MEMOTE Scores for Reconstructions
 85%: [Lactobacillus iners DSM 13335 (525328.13)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/525328.13.sbml.html)  
 83%: [Aerococcus christensenii strain CCUG28831 (87541.3)](https://emmamglass.github.io/GardnerellaPangenomeMEMOTE.io/87541.3.sbml.html)  
